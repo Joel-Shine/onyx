@@ -2,11 +2,12 @@
 
 <p align="center">
 <img src="https://github.com/Joel-Shine/onyx/blob/main/onyx.png" alt="onyx logo" height=300px width=300px>
-</p>
 
 ![Security Status](https://img.shields.io/badge/security-audited-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
+
+</p>
 
 **Onyx** is a high-security, terminal-based file transfer utility. It allows two peers to exchange files and folders without a middleman—or even the relay server—ever having access to the raw data or the decryption keys. 
 By combining **Zero-Knowledge Proof (ZKP)** principles with **SRP-hardened** key exchange, Onyx ensures that security is maintained even if the server infrastructure is compromised.
