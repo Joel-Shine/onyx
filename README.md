@@ -1,4 +1,4 @@
-# Onyx: Zero-Knowledge Encryption Protocol
+<center><h1>Onyx</h1></center>
 
 ![Security Status](https://img.shields.io/badge/security-audited-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-yellow)
