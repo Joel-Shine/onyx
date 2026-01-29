@@ -1,4 +1,9 @@
 <center><h1>Onyx</h1></center>
+<h1 align="center">dot.</h1>
+
+<p align="center">
+<img src="https://github.com/Joel-Shine/onyx/blob/main/onyx.png" alt="onyx logo" height=300px width=300px>
+</p>
 
 ![Security Status](https://img.shields.io/badge/security-audited-blue)
 ![Python](https://img.shields.io/badge/python-3.10%2B-yellow)
