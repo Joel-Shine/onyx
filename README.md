@@ -27,6 +27,11 @@ By combining **Zero-Knowledge Proof (ZKP)** principles with **SRP-hardened** key
 
 ## 🚀 Quick Start
 
+### Requirements for client side usage
+```bash
+pip install typer websockets cryptography rich
+```
+
 ### Usage
 * Generate a Passphrase
 One user generates a secure 8-word code to share (via a secure channel like Signal or in person) [OPTIONAL]:
