@@ -33,7 +33,10 @@ pip install typer websockets cryptography rich
 ```
 
 ### Usage
-* Generate a Passphrase
+* The server for Onyx runs on [Render](https://render.com/), but being a free scubscription, it might take 1 or 2 mins to get it running, if it has been inactive for some time !
+  
+* Generate a Passphrase (not recommended, use your own !)
+  
 One user generates a secure 8-word code to share (via a secure channel like Signal or in person) [OPTIONAL]:
 ```bash
 python onyx.py gen-code
